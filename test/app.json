@@ -1,0 +1,16 @@
+{
+	"files": [
+		"main.lua",
+		"app.json"
+	],
+	"version": {
+		"minor": 1,
+		"major": 1,
+		"build": 1
+	},
+	"configuration": [
+	],
+	"dependencies": [
+	],
+	"name": "test"
+}
